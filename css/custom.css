@@ -17,11 +17,6 @@ div p span {
   font-family: "Roboto Slab", serif;
 }
 
-#projectImageSlides {
-  width: 895px !important;
-  height: 500px !important;
-}
-
 #devLogo {
   border-radius:360px;
 }
@@ -42,4 +37,4 @@ div p span {
 #experienceImage {
   width: 225px !important;
   height: 200px !important;
-}
+} 
