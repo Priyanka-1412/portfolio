@@ -172,6 +172,7 @@ $(function () {
         closeReference();
     });
 
+  
 
     /* =========================================
      *  animations
